@@ -1,0 +1,8 @@
+/build/
+/dist/
+/Verification/
+/Experiments/
+*.dSYM/
+*.zip
+*.exe
+.DS_Store
