@@ -15,7 +15,7 @@
 
 ## 开始使用
 
-1. 从 Releases 下载 `置顶-0.1.1-macOS-arm64.zip`，解压，将 APP 放在固定位置后打开。菜单栏出现图钉，无 Dock 图标。
+1. 从 Releases 下载 `MacWindowPin-0.1.1-macOS-arm64.zip`，解压，将 APP 放在固定位置后打开。菜单栏出现图钉，无 Dock 图标。
 2. 点击图钉 →「设置与权限」，阅读用途后允许两项权限。若系统要求重新启动，退出工具后再次打开。
 3. 回到目标窗口按 **Control + Option + P**。也可从菜单选择「选择窗口…」，悬停查看轮廓，单击确认，按 Esc 取消。
 4. 同时只支持一个窗口，选择新窗口会替换旧窗口。
@@ -59,7 +59,7 @@ open 'dist/置顶-0.1.1.app'
 如需打包自己构建的 APP：
 
 ```sh
-ditto -c -k --keepParent 'dist/置顶-0.1.1.app' 'dist/置顶-0.1.1-macOS-arm64.zip'
+ditto -c -k --keepParent 'dist/置顶-0.1.1.app' 'dist/MacWindowPin-0.1.1-macOS-arm64.zip'
 ```
 
 ## 开发验证

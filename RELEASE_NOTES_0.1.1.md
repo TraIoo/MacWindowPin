@@ -12,7 +12,7 @@
 
 ## 下载与使用
 
-附件：`置顶-0.1.1-macOS-arm64.zip`（115,760 字节）。适用于 Apple Silicon，最低 macOS 14.0；已验证环境为 M1 / macOS 14.8.8。
+附件：`MacWindowPin-0.1.1-macOS-arm64.zip`（115,760 字节）。适用于 Apple Silicon，最低 macOS 14.0；已验证环境为 M1 / macOS 14.8.8。
 
 解压并打开 APP，在菜单栏「设置与权限」中允许辅助功能和屏幕录制。默认快捷键为 **Control + Option + P**。系统要求时退出后重新打开。
 
